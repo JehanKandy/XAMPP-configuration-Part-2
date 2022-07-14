@@ -16,4 +16,10 @@ In here
       3.3 max_execution_time ::: line number : 378 <br>
           max_execution_time = 30 --> max_execution_time = 100000000
 
-   4. then restart the mysql and  
+   4. then restart the mysql and apache Servers 
+
+
+
+
+Thank you <br>
+BY JEHANKANDY<br>
