@@ -12,3 +12,6 @@ In here
        
       3.2 post_max_size <br>
           post_max_size = 8M --> post_max_size = 99999999999999M
+
+      3.3 max_execution_time <br>
+          max_execution_time = 30 --> max_execution_time = 100000000
